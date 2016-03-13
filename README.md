@@ -1,1 +1,2 @@
 # simpleModelConvert
+这是我自己学习Runtime后尝试写的小例子，能够实现自动的将字典转换成模型。
